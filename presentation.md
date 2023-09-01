@@ -122,3 +122,13 @@ mkdir ~/my-project && cd ~/my-project/ && echo ${FOO-nope}
 ### direnv
 - direnv improves the developer workflow 👍
 - different versions of the same sdks need to be installed 👎 
+
+---
+
+## tools
+### nix
+
+---
+
+## tools
+### nix-direnv
